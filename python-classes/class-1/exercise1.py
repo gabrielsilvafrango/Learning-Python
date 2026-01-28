@@ -1,0 +1,6 @@
+message1 = input("Write something: ")
+print(message1)
+message2 = input("Write something different:")
+print(message2)
+message3 = input("Write one last thing:")
+print(message3)
